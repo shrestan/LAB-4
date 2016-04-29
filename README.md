@@ -1,1 +1,2 @@
-# LAB-4
+class Person:
+    lastIdUsed = 100
